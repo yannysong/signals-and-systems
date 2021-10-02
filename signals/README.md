@@ -19,6 +19,9 @@ Run directly.
 * Spectrum for rectangular signals
 * Spectrum for triangle signals
 
+The running result is as follows:
+
+![waveform](https://github.com/yannysong/signals-and-systems/raw/main/signals/)
 3.Underlying principle
 ---
 According to Fourier's theory, a set of trigonometric functions can generate any periodical signals.
