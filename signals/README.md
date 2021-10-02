@@ -21,7 +21,7 @@ Run directly.
 
 The running result is as follows
 
-![running result of waveform generator](/Users/songshuang/Desktop/信号处理实验报告/实验结果/Figure_1.png 'running result of waveform generator')
+![running result of waveform generator](/Users/songshuang/Desktop/Figure_1.png)
 
 3.Underlying principle
 ---
