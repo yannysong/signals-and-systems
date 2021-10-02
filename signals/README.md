@@ -21,7 +21,7 @@ Run directly.
 
 The running result is as follows:
 
-![waveform](https://github.com/yannysong/signals-and-systems/raw/main/signals/)
+![waveform](https://github.com/yannysong/signals-and-systems/raw/main/signals/Figure_1.png)
 3.Underlying principle
 ---
 According to Fourier's theory, a set of trigonometric functions can generate any periodical signals.
