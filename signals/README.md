@@ -28,6 +28,16 @@ According to Fourier's theory, a set of trigonometric functions can generate any
 
 ![](https://github.com/yannysong/signals-and-systems/raw/main/signals/synth.png 'Harmonic synthesis formula')
 
+4.Structure
+---
+>Harmonic synthesis
+>>Spectrum
+
+5.Primary functions
+---
+* Har_synth() #harmonic synthesis generator
+* Tri_wave() #integrator of rectangular wave
+* fre_ampl() #shows the spectrum of waves
 
 Author
 ---
