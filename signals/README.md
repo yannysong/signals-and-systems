@@ -21,10 +21,12 @@ Run directly.
 
 The running result is as follows:
 
-![waveform](https://github.com/yannysong/signals-and-systems/raw/main/signals/Figure_1.png)
+![waveform](https://github.com/yannysong/signals-and-systems/raw/main/signals/Figure_1.png 'Waveform generator')
 3.Underlying principle
 ---
 According to Fourier's theory, a set of trigonometric functions can generate any periodical signals.
+
+![](https://github.com/yannysong/signals-and-systems/raw/main/signals/synth.png 'Harmonic synthesis formula')
 
 
 Author
