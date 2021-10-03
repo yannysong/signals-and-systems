@@ -16,4 +16,23 @@ Run the program -> input the value of RLC -> click the botton 'show the trace'
 ---
 Second-order state equation:
 
-![state equation]()
+![state equation](https://github.com/yannysong/signals-and-systems/raw/main/trace/equation.png 'equation')
+
+3.Structure
+---
+>get the value of the electric components
+>>compute the state
+>>>show the trace
+
+4.Primary formula
+---
+ui_init()#ui界面初始化
+fun_show()#计算并显示电路轨迹
+
+5.Reference
+---
+https://github.com/ParthJadhav/Tkinter-Designer
+
+Author
+---
+Song Shuangyannan
