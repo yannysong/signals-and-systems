@@ -27,6 +27,7 @@ Second-order state equation:
 4.Primary formula
 ---
 ui_init()#ui界面初始化
+
 fun_show()#计算并显示电路轨迹
 
 5.Reference
